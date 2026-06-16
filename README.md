@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-perfume-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tu perfume dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-dulce/) |
+| **Get License** | [Request Licensing for Tu perfume dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-perfume-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, tú sabes que esta noche es de los dos
+> Ese perfume dulce que me quita la voz
+> No hay nadie más, mi cuerpo pierde el control
+> Tus ojos brillan como los rayos del sol
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
