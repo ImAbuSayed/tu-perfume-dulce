@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu perfume dulce
+
+This log tracks the cryptographic history and versioning for the song **Tu perfume dulce** (tu-perfume-dulce).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:11:02.174275 | `v1` | `c2f61c96a863bb8113bc2228125a66ec600f30c415f44f18ab3eff11be4ffeb6` | `4df3f61fdfa8de7c58fc8a6f99cdea144d41e3ac60e98c398e165443e3113476` | `2026-06-16_tu-perfume-dulce-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
